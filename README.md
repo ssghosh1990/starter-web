@@ -8,6 +8,10 @@ This example is to show different parts of Git repository and various commands u
 
 ## Purpose
 
+As stated above the main purpose is to demontrate few simple Git commands.
+
 ## Deployment
+
+This is a simple web project, deployment can be on any web server or even local file system.
 
 ## How To Contribute
